@@ -451,8 +451,7 @@ void ofApp::checkJoysticksRoutine(){
 		if(yAxis2 > 1.0)
 			yAxis2 = 1.0;
 		if(yAxis2 < 0.0)
-			yAxis2 = 0.0;	
-		
+			yAxis2 = 0.0;		
 	}
 	
 
