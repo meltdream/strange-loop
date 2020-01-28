@@ -4,8 +4,6 @@ It allows the user to control several parameters of the feedback loop that used 
 difficult to alter in standard video mixer feedback, with an embedded control interface consisting of
 two clickable joystick and four potentiometers.
 
-![Strange Loop Image](){:height="400" width="1200"}
-
 ![Strange Loop Image](https://github.com/meltdream/strange-loop/blob/master/Strange_Loop_img.jpg){:class="img-responsive"}
 ![Strange Loop Image](https://github.com/meltdream/strange-loop/blob/master/Strange_Loop_img.jpg){:height="50%" width="50%"}
 
