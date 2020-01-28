@@ -20,9 +20,9 @@ This will require a little experience in programming, but it's actually not that
 You will need a USB keyboard and some patience. First, connect the USB keyboard to your device and hit "Esc"
 to close the application. 
 You will now be able to enter commands to the Raspbian console.
-Now you can either edit the file directly from the console, or connect to your Wi-Fi network, switch to Desktop Mode and use
-VNC Viewer to work from your laptop. I strongly recommend the latter if you have to do substantial work.
-Here's a tutorial for doing that: (VNC is already enabled, just make sure to change the Wi-Fi country)
+Now you can either edit the file directly from the console, or connect to your Wi-Fi network, switch to Desktop Autologin from Boot Options and use VNC Viewer to work from your laptop. I strongly recommend the latter if you have to do substantial work.
+
+Here's a tutorial for using VNC: (VNC is already enabled, just make sure to change the Wi-Fi country)
 https://www.raspberrypi.org/documentation/remote-access/vnc/
 
 The shaders are the easiest parts to modify probably, and they compile at run time, meaning that you 
