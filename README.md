@@ -1,6 +1,6 @@
 # About Strange Loop
 The Strange Loop is a digital feedback processor based on openFrameworks and the Raspberry Pi.
-It allows the user to control several parameters of the feedback loop that used to be fixed or
+It allows the user to control several parameters of the feedback loop that are fixed or
 difficult to alter in standard video mixer feedback, with an embedded control interface consisting of
 two clickable joystick and four potentiometers.
 
