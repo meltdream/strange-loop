@@ -21,10 +21,9 @@ varying vec2 texCoordVarying;
 
 
 void main(){
-	//contrast
 	vec4 color = texture2D(tex0, texCoordVarying+vec2(dispX, dispY));
 	float in1Scaled = (in1 * /*some value*/ ) + /*some value*/;  
-	float in2Scaled = 
+	float in2Scaled = (in2 * /*some value*/ ) + /*some value*/ ;
 	
 	color.rgb = /* do something with the two scaled and biased inputs*/;
 	gl_FragColor = color;
