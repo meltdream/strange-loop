@@ -11,7 +11,7 @@ You can find out how it is operated in this user manual: https://drive.google.co
 
 Here you can find the images ready to flash, however you will need the control board to be able to alter the parameters.
 
-NTSC:  drive.google.com/file/d/1RXiX2_iwRaj5GYRbg5A3jdoc14YfmBC9/view?usp=sharing
+NTSC:  https://drive.google.com/file/d/1RXiX2_iwRaj5GYRbg5A3jdoc14YfmBC9/view?usp=sharing
 
 ### Modifying it:
 
